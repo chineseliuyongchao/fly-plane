@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/fly piane.unity
+  isLoaded: 1
+  isActive: 1
